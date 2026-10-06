@@ -1,7 +1,16 @@
-## Hi there 👋
+
+
+[Books for young people, recommended by Jermaine Fowler (2026)](https://gist.github.com/timweb/8bce887eb3e9740b86fb961cf217aa99)
+
+[Links from the book AI Engineering: Building Applications with Foundation Models, by Chip Huyen](https://gist.github.com/timweb/cc33767453e8cfdf99f87e08f1261326)
+
+[Links from the book Hands-On Large Language Models, by Jay Alammar & Maarten Grootendorst](https://gist.github.com/timweb/3ced4bfb80838d5c13512596c64549be)
+
 
 <!--
 **timweb/timweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Hi there 👋
 
 Here are some ideas to get you started:
 
